@@ -1,0 +1,24 @@
+package com.DayJ;
+
+public abstract class Mammal extends Animal {
+
+    //////////////////////////Attributes//////////////////////
+
+
+
+
+
+
+    /////////////////////Constructors//////////////////////////
+
+    public Mammal(String name){
+        super(name);
+    }
+
+
+
+
+
+    /////////////////////////////Methods////////////////////////
+
+}
