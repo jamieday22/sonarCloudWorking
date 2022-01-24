@@ -25,14 +25,6 @@ public abstract class Animal {
 
     /////////////////////////////////////Methods//////////////////////////////////////////////////
 
-    public abstract void eat(String food);
-
-    public abstract void breathe();
-
-
-    public void die(){
-        System.out.println("I am dead!");
-    }
 
 
     public String getName() {
