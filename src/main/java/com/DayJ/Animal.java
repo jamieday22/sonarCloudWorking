@@ -6,7 +6,7 @@ public abstract class Animal {
 
 /////////////////////////////////////Attributes//////////////////////////////////////////////
 
-    private String name; 
+    private String name;
 
 
 
